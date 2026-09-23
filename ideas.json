@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "tipo": "nota",
+    "costo": 0,
+    "texto": "Escribe una nota pequeña a mano (un chiste local, un recordatorio lindo o algo tonto) y escóndela dentro de su estuche, su libreta o el libro que esté leyendo.",
+    "tiempo": "2 min"
+  },
+  {
+    "id": 2,
+    "tipo": "antojo",
+    "costo": 35,
+    "texto": "Aparece con su golosina, snack o galletas favoritas sin avisarle ni esperar una ocasión especial.",
+    "tiempo": "10 min"
+  },
+  {
+    "id": 3,
+    "tipo": "cafe",
+    "costo": 60,
+    "texto": "Llévale o mándale su bebida predilecta (café frío, té o matcha) a media jornada con un mensajito que diga 'sobrevive al día'.",
+    "tiempo": "15 min"
+  },
+  {
+    "id": 4,
+    "tipo": "servicio",
+    "costo": 0,
+    "texto": "Fíjate en algo cotidiano que le dé flojera hacer hoy (organizar algo, resolver un pendiente tonto) y resuélvelo antes de que lo mencione.",
+    "tiempo": "15 min"
+  },
+  {
+    "id": 5,
+    "tipo": "musica",
+    "costo": 0,
+    "texto": "Ármale una mini-playlist de exactamente 3 canciones que te recuerden a ella o que creas que le van a gustar para su camino, y mándasela sin contexto.",
+    "tiempo": "10 min"
+  },
+  {
+    "id": 6,
+    "tipo": "flor",
+    "costo": 40,
+    "texto": "Cómprale una sola flor bonita o un tallo suelto (no un ramo formal) en el camino y dásela sin rollo protocolario.",
+    "tiempo": "5 min"
+  },
+  {
+    "id": 7,
+    "tipo": "desconexion",
+    "costo": 0,
+    "texto": "Invítala a sentarse en una banca o parque 20 minutos a platicar o solo tomar aire con los celulares guardados en los bolsillos.",
+    "tiempo": "25 min"
+  },
+  {
+    "id": 8,
+    "tipo": "recuerdo",
+    "costo": 0,
+    "texto": "Mándale un mensaje recordando un detalle muy específico de algo que te contó hace semanas para que vea que estabas poniendo atención total.",
+    "tiempo": "2 min"
+  },
+  {
+    "id": 9,
+    "tipo": "nieve",
+    "costo": 50,
+    "texto": "Dile 'vamos por una nieve/helado rápido' de forma 100% espontánea en una tarde cualquiera.",
+    "tiempo": "30 min"
+  },
+  {
+    "id": 10,
+    "tipo": "comodidad",
+    "costo": 0,
+    "texto": "Prepárale un té caliente o un vaso con agua fresca y un cojín cómodo cuando notes que tuvo un día pesado.",
+    "tiempo": "5 min"
+  }
+]
