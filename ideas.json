@@ -104,4 +104,382 @@
   {"id": 103, "tipo": "futuro", "costo": 0, "texto": "Descríbele con detalle cómo imaginas un día perfecto juntos en el mismo lugar.", "tiempo": "10 min"},
   {"id": 104, "tipo": "gratitud", "costo": 0, "texto": "Dale las gracias por algo específico que hizo por ti esta semana, por pequeño que parezca.", "tiempo": "3 min"},
   {"id": 105, "tipo": "gratitud", "costo": 0, "texto": "Mándale un 'te elijo' con un motivo distinto cada día durante una semana.", "tiempo": "3 min"}
+{
+    "id": 106,
+    "tipo": "coreografia",
+    "costo": 0,
+    "texto": "Arma una coreografía corta (30 a 60 segundos) con una canción de ustedes, grábala y mándasela como sorpresa, con una nota sobre qué significa cada movimiento.",
+    "tiempo": "90 min"
+  },
+  {
+    "id": 107,
+    "tipo": "coreografia",
+    "costo": 0,
+    "texto": "Enséñale por videollamada una secuencia sencilla de ballet o contemporáneo y bailen juntos, cada quien en su casa.",
+    "tiempo": "30 min"
+  },
+  {
+    "id": 108,
+    "tipo": "coreografia",
+    "costo": 0,
+    "texto": "Graba una pieza de danza contemporánea dedicada a ella y mándala junto con un audio explicándole qué quisiste transmitir.",
+    "tiempo": "60 min"
+  },
+  {
+    "id": 109,
+    "tipo": "coreografia",
+    "costo": 0,
+    "texto": "Inventa una coreografía tonta (de un meme o de un tema de K-pop) y rétala a aprenderla; luego mándense videos de los intentos.",
+    "tiempo": "30 min"
+  },
+  {
+    "id": 110,
+    "tipo": "coreografia",
+    "costo": 0,
+    "texto": "Mándale un fragmento de tu ensayo o clase con el mensaje 'esta parte me la imagino bailándola contigo'.",
+    "tiempo": "5 min"
+  },
+  {
+    "id": 111,
+    "tipo": "web",
+    "costo": 0,
+    "texto": "Hazle una página web sencilla con un contador de días juntos, fotos de ustedes y una frase distinta cada vez que la abra.",
+    "tiempo": "120 min"
+  },
+  {
+    "id": 112,
+    "tipo": "web",
+    "costo": 0,
+    "texto": "Programa una página con 'razones por las que te quiero' que se muestran al azar cada vez que ella pulsa un botón.",
+    "tiempo": "60 min"
+  },
+  {
+    "id": 113,
+    "tipo": "web",
+    "costo": 0,
+    "texto": "Crea una mini web de cupones canjeables (un abrazo, una película juntos, un antojo a domicilio) que ella pueda 'reclamar' con un botón.",
+    "tiempo": "90 min"
+  },
+  {
+    "id": 114,
+    "tipo": "web",
+    "costo": 0,
+    "texto": "Haz un quiz web de '¿qué tanto me conoces?' con preguntas sobre ustedes; al terminar, el premio es un mensaje o un antojo pedido por ti.",
+    "tiempo": "90 min"
+  },
+  {
+    "id": 115,
+    "tipo": "web",
+    "costo": 0,
+    "texto": "Publica una página protegida con una contraseña que solo ella pueda adivinar (un chiste interno) y que al entrar revele una carta o un video.",
+    "tiempo": "60 min"
+  },
+  {
+    "id": 116,
+    "tipo": "web",
+    "costo": 0,
+    "texto": "Crea un mapa interactivo con pines de los lugares importantes de ustedes (donde se conocieron, primera cita, etc.) y un recuerdo en cada uno.",
+    "tiempo": "120 min"
+  },
+  {
+    "id": 117,
+    "tipo": "web",
+    "costo": 0,
+    "texto": "Arma una línea del tiempo de su relación en una página con scroll, con fotos y frases de cada etapa.",
+    "tiempo": "120 min"
+  },
+  {
+    "id": 118,
+    "tipo": "virus_romantico",
+    "costo": 0,
+    "texto": "Hazle un 'virus' falso e inofensivo: una página o archivo HTML que simule una alerta de 'infección de cariño' con barra de carga y termine con un mensaje romántico. Debe ser 100% inocuo, sin tocar nada de su equipo, y ella debe abrirlo sabiendo que es una broma tuya.",
+    "tiempo": "45 min"
+  },
+  {
+    "id": 119,
+    "tipo": "virus_romantico",
+    "costo": 0,
+    "texto": "Prepárale una animación de corazones o efecto 'hacker' que se abre en el navegador y cuenta una historia hasta llegar a una sorpresa. Mándasela como archivo que ella decide abrir, nunca instalado a escondidas.",
+    "tiempo": "60 min"
+  },
+  {
+    "id": 120,
+    "tipo": "codigo",
+    "costo": 0,
+    "texto": "Programa un mini bot de Telegram para ella que responda con un piropo, un recuerdo o una idea de cita cuando escriba un comando.",
+    "tiempo": "90 min"
+  },
+  {
+    "id": 121,
+    "tipo": "codigo",
+    "costo": 0,
+    "texto": "Hazle un generador de 'planes al azar para cuando nos veamos' que ella pueda abrir en el navegador cuando esté aburrida.",
+    "tiempo": "60 min"
+  },
+  {
+    "id": 122,
+    "tipo": "codigo",
+    "costo": 0,
+    "texto": "Escríbele una carta en forma de código corto en Python que al ejecutarse imprima un mensaje bonito, y mándale el archivo con instrucciones.",
+    "tiempo": "30 min"
+  },
+  {
+    "id": 123,
+    "tipo": "codigo",
+    "costo": 0,
+    "texto": "Configura un recordatorio programado (con su permiso) que le mande frases tiernas para tomar agua, descansar o comer bien.",
+    "tiempo": "45 min"
+  },
+  {
+    "id": 124,
+    "tipo": "codigo",
+    "costo": 0,
+    "texto": "Mándale un mensaje cifrado (César, base64 o algo sencillo) con una pista para que lo descifre y descubra una sorpresa.",
+    "tiempo": "20 min"
+  },
+  {
+    "id": 125,
+    "tipo": "ctf",
+    "costo": 0,
+    "texto": "Arma un mini CTF romántico de 3 o 4 retos sencillos que ella resuelva con pistas; el premio final es un mensaje, un regalo o una cita.",
+    "tiempo": "120 min"
+  },
+  {
+    "id": 126,
+    "tipo": "ctf",
+    "costo": 0,
+    "texto": "Esconde una pista en una foto (texto oculto o detalle en la imagen) y guíala paso a paso hasta una sorpresa.",
+    "tiempo": "45 min"
+  },
+  {
+    "id": 127,
+    "tipo": "qr",
+    "costo": 30,
+    "texto": "Genera un código QR que lleve a una playlist, carta o video tuyo, e imprímelo o mándaselo dentro de un paquete.",
+    "tiempo": "20 min"
+  },
+  {
+    "id": 128,
+    "tipo": "hardware",
+    "costo": 250,
+    "texto": "Arma con un ESP32 y un LED o pantalla OLED un pequeño corazón luminoso que se encienda cuando le mandes un mensaje desde tu celular, y envíaselo por paquetería.",
+    "tiempo": "180 min"
+  },
+  {
+    "id": 129,
+    "tipo": "hardware",
+    "costo": 350,
+    "texto": "Construye una 'lámpara de larga distancia': cuando tú presionas un botón, se enciende una luz en el cuarto de ella (ESP32 con wifi).",
+    "tiempo": "240 min"
+  },
+  {
+    "id": 130,
+    "tipo": "hardware",
+    "costo": 120,
+    "texto": "Programa un circuito con LEDs que parpadee un mensaje en código morse y mándaselo en una cajita con las instrucciones para decodificarlo.",
+    "tiempo": "120 min"
+  },
+  {
+    "id": 131,
+    "tipo": "hardware",
+    "costo": 100,
+    "texto": "Hazle una tarjeta con un pequeño circuito que encienda un LED o suene una melodía al abrirla.",
+    "tiempo": "90 min"
+  },
+  {
+    "id": 132,
+    "tipo": "vision",
+    "costo": 0,
+    "texto": "Con MediaPipe, prepara una demo donde su pose o gesto frente a la cámara dispare corazones o un mensaje en pantalla, y pruébenla en videollamada.",
+    "tiempo": "120 min"
+  },
+  {
+    "id": 133,
+    "tipo": "vision",
+    "costo": 0,
+    "texto": "Haz un filtro de cámara sencillo con corazones o estrellas que siga su cara y úsenlo en una videollamada.",
+    "tiempo": "90 min"
+  },
+  {
+    "id": 134,
+    "tipo": "costura",
+    "costo": 100,
+    "texto": "Cose un detalle a mano o a máquina (bolsita, funda, pañuelo) con sus iniciales y mándaselo.",
+    "tiempo": "90 min"
+  },
+  {
+    "id": 135,
+    "tipo": "costura",
+    "costo": 0,
+    "texto": "Diseña en CLO 3D una prenda pensada para ella, muéstrale el render y pregúntale qué le cambiarías; si le gusta, cósela.",
+    "tiempo": "120 min"
+  },
+  {
+    "id": 136,
+    "tipo": "costura",
+    "costo": 150,
+    "texto": "Hazle un scrunchie, tote bag o gorro con una tela que creas que le va a gustar y mándalo con una notita.",
+    "tiempo": "60 min"
+  },
+  {
+    "id": 137,
+    "tipo": "costura",
+    "costo": 0,
+    "texto": "Mándale el patrón o boceto de algo que quieres hacerle y pídele que elija color o tela, para que sea un regalo hecho a dúo.",
+    "tiempo": "15 min"
+  },
+  {
+    "id": 138,
+    "tipo": "lectura",
+    "costo": 0,
+    "texto": "Mándale tus subrayados favoritos de lo que estás leyendo con una nota tuya sobre por qué te hicieron pensar en ella.",
+    "tiempo": "10 min"
+  },
+  {
+    "id": 139,
+    "tipo": "lectura",
+    "costo": 0,
+    "texto": "Lean el mismo libro y al terminar cada capítulo hazle una pregunta para platicarla por videollamada.",
+    "tiempo": "30 min"
+  },
+  {
+    "id": 140,
+    "tipo": "lectura",
+    "costo": 300,
+    "texto": "Regálale una novela que te marcó a ti, con una dedicatoria explicando por qué la escogiste.",
+    "tiempo": "15 min"
+  },
+  {
+    "id": 141,
+    "tipo": "idiomas",
+    "costo": 0,
+    "texto": "Enséñale 5 frases en francés o ruso con un audio tuyo y pídele que te responda en el mismo idioma.",
+    "tiempo": "15 min"
+  },
+  {
+    "id": 142,
+    "tipo": "idiomas",
+    "costo": 0,
+    "texto": "Escríbele una carta corta en francés (o ruso) con la traducción al lado, para que la descifre.",
+    "tiempo": "30 min"
+  },
+  {
+    "id": 143,
+    "tipo": "idiomas",
+    "costo": 0,
+    "texto": "Aprendan juntos cómo se dice 'te quiero' en 5 idiomas y elijan uno como su clave secreta.",
+    "tiempo": "20 min"
+  },
+  {
+    "id": 144,
+    "tipo": "musica",
+    "costo": 0,
+    "texto": "Hazle una playlist de canciones que te gustan a ti (BTS, Mercedes Sosa, lo que sea) contándole por qué cada una te recuerda algo, y pídele una de las suyas a cambio.",
+    "tiempo": "30 min"
+  },
+  {
+    "id": 145,
+    "tipo": "musica",
+    "costo": 0,
+    "texto": "Grábate tarareando o tocando una canción que le guste y mándasela como audio.",
+    "tiempo": "10 min"
+  },
+  {
+    "id": 146,
+    "tipo": "video",
+    "costo": 0,
+    "texto": "Edita un video estilo 'tráiler de película' de su historia, con música dramática y frases en pantalla.",
+    "tiempo": "90 min"
+  },
+  {
+    "id": 147,
+    "tipo": "video",
+    "costo": 0,
+    "texto": "Grábate un 'día de mi vida' de 1 minuto para que sienta que estuvo contigo, y pídele que haga uno también.",
+    "tiempo": "20 min"
+  },
+  {
+    "id": 148,
+    "tipo": "dibujo",
+    "costo": 0,
+    "texto": "Dibuja una tira cómica corta de ustedes dos en una situación graciosa y mándasela.",
+    "tiempo": "45 min"
+  },
+  {
+    "id": 149,
+    "tipo": "acertijo",
+    "costo": 100,
+    "texto": "Mándale un acertijo o reto de lógica; si lo resuelve, ganas la obligación de mandarle un antojo a domicilio.",
+    "tiempo": "10 min"
+  },
+  {
+    "id": 150,
+    "tipo": "tech",
+    "costo": 0,
+    "texto": "Enséñale algo sencillo de tu mundo (abrir una terminal, hacer una página HTML) en videollamada y hagan algo juntos.",
+    "tiempo": "45 min"
+  },
+  {
+    "id": 151,
+    "tipo": "tech",
+    "costo": 0,
+    "texto": "Configúrale en su celular un widget con una foto de ustedes y la cuenta regresiva del día en que se ven.",
+    "tiempo": "20 min"
+  },
+  {
+    "id": 152,
+    "tipo": "tech",
+    "costo": 0,
+    "texto": "Crea un repositorio privado 'de ustedes' donde cada uno sube un recuerdo con un mensaje de commit gracioso.",
+    "tiempo": "20 min"
+  },
+  {
+    "id": 153,
+    "tipo": "tech",
+    "costo": 0,
+    "texto": "Escríbele un 'changelog de la relación' con versiones (v1.0 primera cita, v2.0 primer viaje...) y mándaselo como carta.",
+    "tiempo": "30 min"
+  },
+  {
+    "id": 154,
+    "tipo": "tech",
+    "costo": 0,
+    "texto": "Programa un mensaje bonito para que le llegue en un momento que tú no puedas escribirle, y avísale después que lo dejaste listo.",
+    "tiempo": "20 min"
+  },
+  {
+    "id": 155,
+    "tipo": "gaming",
+    "costo": 0,
+    "texto": "Enséñale con paciencia lo básico de un juego que te gusta (League of Legends u otro) y jueguen una partida sin presión.",
+    "tiempo": "60 min"
+  },
+  {
+    "id": 156,
+    "tipo": "gaming",
+    "costo": 0,
+    "texto": "Haz un mini juego (HTML o Scratch) donde ella es la protagonista y el final es un mensaje tuyo.",
+    "tiempo": "180 min"
+  },
+  {
+    "id": 157,
+    "tipo": "diseno",
+    "costo": 0,
+    "texto": "Diseña un wallpaper o póster con una frase de ustedes o con el mapa de estrellas de la fecha en que se conocieron.",
+    "tiempo": "45 min"
+  },
+  {
+    "id": 158,
+    "tipo": "diseno",
+    "costo": 0,
+    "texto": "Crea un paquete de stickers para Telegram o WhatsApp con dibujos de ustedes dos.",
+    "tiempo": "90 min"
+  },
+  {
+    "id": 159,
+    "tipo": "viaje",
+    "costo": 0,
+    "texto": "Desde un festival, teatro o ensayo, mándale un video mostrando cómo se ve tu mundo y dile a quién te habría gustado llevar.",
+    "tiempo": "5 min"
+  }
 ]
