@@ -1,5 +1,5 @@
 {
-  "last_sent": "2026-11-18",
+  "last_sent": "2026-11-23",
   "used_ids": [
     7,
     155,
@@ -11,7 +11,8 @@
     86,
     89,
     60,
-    21
+    21,
+    132
   ],
-  "last_tipo": "juego"
+  "last_tipo": "vision"
 }
