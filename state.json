@@ -1,5 +1,5 @@
 {
-  "last_sent": "2026-11-23",
+  "last_sent": "2026-11-27",
   "used_ids": [
     7,
     155,
@@ -12,7 +12,8 @@
     89,
     60,
     21,
-    132
+    132,
+    10
   ],
-  "last_tipo": "vision"
+  "last_tipo": "flor"
 }
